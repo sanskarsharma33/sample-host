@@ -2,7 +2,7 @@ body{
 	margin:0;
 	color:#fff;
 	background:url("loginbg.jpg");
-	background-size: 1000px, 1100px;
+	background-size: auto;
 	font:600 16px/18px 'Open Sans',sans-serif;
 	/*overflow: auto;*/
 }
